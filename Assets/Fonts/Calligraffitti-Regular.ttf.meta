@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cfe4f3e4dff5d44f79376665a447d5a1
+timeCreated: 1484902722
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Calligraffitti
+  fontNames:
+  - Calligraffitti
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
